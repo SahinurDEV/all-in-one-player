@@ -23,7 +23,7 @@ Test your MP4, M3U8, YouTube, SoundCloud, Facebook, MPD & more URLs with our fas
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/devSahinur/all-in-one-player.git
+    git clone https://github.com/SahinurDEV/all-in-one-player.git
     ```
 
 2. Install dependencies:
